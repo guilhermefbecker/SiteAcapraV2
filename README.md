@@ -1,6 +1,6 @@
 🐾 Site ACAPRA - Associação de Proteção aos Animais
 
-Este projeto é um site institucional desenvolvido para a ACAPRA (Associação Campinense de Proteção aos Animais), com o objetivo de divulgar a missão da instituição, compartilhar informações sobre maus-tratos, histórias de resgates, incentivar a adoção responsável e facilitar o processo de doações.
+Este projeto é um site institucional desenvolvido para a ACAPRA , com o objetivo de divulgar a missão da instituição, compartilhar informações sobre maus-tratos, histórias de resgates, incentivar a adoção responsável e facilitar o processo de doações.
 
 ✨ Funcionalidades e Seções
 
